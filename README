@@ -1,0 +1,2 @@
+This is the BACnet Redundant Sensing code on the WP sender side.
+This code supports redundant sensing on "Analog Ouput" objects.
